@@ -4,6 +4,7 @@ using namespace std;
 int main(){
     string lalala;
     cout << "testing 1, input: "; cin >> lalala;
+    cout << "blablallaba\n";
     cout << \n\n "input 1 = " << lalala;
     
     for (int i = 0; i < 10; i++){
