@@ -7,6 +7,7 @@ int main(){
     cout << \n\n "input 1 = " << lalala;
     
     for (int i = 0; i < 10; i++){
-        cout << "===";
+        cout << "+++";
     } cout << endl;
+    cout << "HeyHeyHeyHey";
 }
